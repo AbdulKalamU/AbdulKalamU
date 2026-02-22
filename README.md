@@ -1,45 +1,72 @@
-# 👨‍💻 Hi, I'm Abdul Kalam U 
-### B.Tech IT Student | Cloud Architect | Full-Stack Developer
+# <p align="center">👋 Hello World, I'm Abdul Kalam U!</p>
 
-A technology-focused engineer specialized in building **scalable**, high-availability infrastructures and AI-driven applications. I bridge the gap between backend logic and robust cloud-native deployments.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvJC/giphy.gif" width="300">
+</p>
+
+<p align="center">
+  <b>B.Tech IT Student | Cloud Architect | Full-Stack Dev</b><br>
+  <i>"Transforming coffee into scalable AWS infrastructure & AI solutions"</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20AI-blue" />
+  <img src="https://img.shields.io/github/followers/AbdulKalamU?style=social" />
+</p>
 
 ---
 
-### 🛠️ My Technical Arsenal
+### 🛠️ My Tech Stack
 
-| Category | Tools & Languages |
+<div align="center">
+
+| **Category** | **Skills & Tools** |
 | :--- | :--- |
-| **Cloud (AWS)** | VPC, EC2, ALB/NLB, RDS, Auto Scaling, Route53, NAT Gateway |
-| **Languages** | Java (Spring Boot), PHP (Laravel), Python, SQL, JavaScript |
-| **Backend & Tools** | Docker, Git/Github, Maven, Postman, Linux (Ubuntu) |
-| **Databases** | MySQL (Multi-AZ), MongoDB |
-| **Frontend** | HTML5, Tailwind CSS |
+| **Cloud ☁️** | `AWS (VPC, EC2, ALB, RDS, Route53, NAT Gateway)` |
+| **Languages 💻** | `Java`, `Spring Boot`, `Python`, `PHP`, `JavaScript`, `SQL` |
+| **Databases 🗄️** | `MySQL (Multi-AZ)`, `MongoDB`, `PostgreSQL` |
+| **DevOps ⚙️** | `Docker`, `Git`, `Maven`, `Postman`, `Linux` |
+| **Frontend 🎨** | `HTML5`, `Tailwind CSS`, `ReactJS` |
+
+</div>
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Masterpieces
 
-#### **1. Scalable Java Application on AWS 3-Tier Architecture**
-**Tools:** AWS VPC, ALB/NLB, Auto Scaling Group (ASG), RDS MySQL
-* **High Availability & Scalability:** Architected a Multi-AZ deployment utilizing **Auto Scaling Groups** to dynamically adjust capacity based on traffic demand.
-* **Traffic Orchestration:** Implemented a public-facing **Network Load Balancer** for the presentation tier and an internal NLB for the application tier to ensure seamless scaling.
-* **Advanced Networking:** Configured dual VPCs with **Transit Gateway** for inter-VPC communication and NAT Gateways for secure private subnet internet access.
-* **Persistent Data Layer:** Deployed Amazon RDS MySQL in a Multi-AZ configuration with automated failover and read replicas for performance optimization.
+#### **🌍 [Ai-tinerary](https://github.com/AbdulKalamU/Ai-tinerary)** 🤖
+> **AI Travel Orchestrator:** Generates 5-day structured trips using **Gemini AI**.
+- 🛠️ **Tech:** Spring Boot, Vanilla JS, Gemini API.
+- ⚡ **Challenge:** Handled **HTTP 429** rate limits with a defensive UI loading engine.
 
-#### **2. Ai-tinerary (AI Travel Orchestrator)**
-**Tools:** Spring Boot, Gemini AI, MySQL, JavaScript
-* Built a full-stack system to generate personalized 5-day itineraries using Google's Gemini AI.
-* Designed a dynamic UI to process structured JSON responses while implementing defensive error handling for API rate-limiting (429 errors).
-* [View Repository](https://github.com/AbdulKalamU/Ai-tinerary)
+#### **🏗️ [Scalable AWS 3-Tier](https://github.com/AbdulKalamU/DevOps-Project-39)** ☁️
+> **Production-Grade Infrastructure:** Fully automated Java app deployment.
+- 🛠️ **Tech:** VPC, Auto Scaling, Multi-AZ RDS, Transit Gateway.
+- 📈 **Goal:** 99.9% availability through **Load Balancing** and automated failover.
 
 ---
 
-### 📊 GitHub Stats
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulKalamU&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulKalamU&layout=compact&theme=radical)
+### 📊 My GitHub Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulKalamU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulKalamU&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulKalamU&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 
 ---
 
-### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/abdulkalam28](https://linkedin.com/in/abdulkalam28)
-* **Email:** [abdulkalamak0602@gmail.com](mailto:abdulkalamak0602@gmail.com)
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdulkalam28"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdulkalamak0602@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulKalamU&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+</p>
