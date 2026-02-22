@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>B.Tech IT Student | Cloud Architect | Full-Stack Dev</b><br>
+  <b>B.Tech IT Student | Cloud & DevOps Enthusiast | Full-Stack Dev</b><br>
   <i>"Transforming coffee into scalable AWS infrastructure & AI solutions"</i>
 </p>
 
@@ -40,7 +40,7 @@
 - 🛠️ **Tech:** Spring Boot, Vanilla JS, Gemini API.
 - ⚡ **Challenge:** Handled **HTTP 429** rate limits with a defensive UI loading engine.
 
-#### **🏗️ [Scalable AWS 3-Tier](https://github.com/AbdulKalamU/DevOps-Project-39)** ☁️
+#### **🏗️ [Scalable AWS 3-Tier](https://github.com/AbdulKalamU/DevSecOps-3tier-pipeline)** ☁️
 > **Production-Grade Infrastructure:** Fully automated Java app deployment.
 - 🛠️ **Tech:** VPC, Auto Scaling, Multi-AZ RDS, Transit Gateway.
 - 📈 **Goal:** 99.9% availability through **Load Balancing** and automated failover.
