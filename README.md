@@ -1,6 +1,7 @@
 # <p align="center">👋 Hello World, I'm Abdul Kalam U!</p>
 
- <img src="<img width="912" height="1168" alt="hero" src="<img width="912" height="912" alt="hero1" src="https://github.com/user-attachments/assets/0e145125-b93c-446f-9d16-60b30c54481d"
+
+<img width="600" height="600" alt="hero1" src="https://github.com/user-attachments/assets/0e145125-b93c-446f-9d16-60b30c54481d"
  alt ="hero" width="400">
 
 
