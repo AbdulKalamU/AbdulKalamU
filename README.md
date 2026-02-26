@@ -1,7 +1,7 @@
 # <p align="center">👋 Hello World, I'm Abdul Kalam U!</p>
 
 <div align="center">
-<img width="150" height="150" alt="Abdul" src="https://github.com/user-attachments/assets/0e145125-b93c-446f-9d16-60b30c54481d"
+<img width="300" height="300" alt="Abdul" src="https://github.com/user-attachments/assets/0e145125-b93c-446f-9d16-60b30c54481d"
  alt ="hero" width="400"
  style="border-radius: 50%; display: inline-block;">
  </div>
