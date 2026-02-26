@@ -2,10 +2,9 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1b5d1cc3-7d69-4e6a-9ce9-f1dd26edd8c6" 
-       alt="hero" 
        width="200" 
        height="200" 
-       style="border-radius: 50%; display: block;">
+       style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;">
 </div>
 
 <p align="center">
