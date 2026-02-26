@@ -1,9 +1,9 @@
 # <p align="center">👋 Hello World, I'm Abdul Kalam U!</p>
 
 <p align="center">
-  <img src="<img width="912" height="1168" alt="hero" src="https://github.com/user-attachments/assets/1b5d1cc3-7d69-4e6a-9ce9-f1dd26edd8c6" />
-" width="400">
-</p>
+<img src="https://github.com/user-attachments/assets/1b5d1cc3-7d69-4e6a-9ce9-f1dd26edd8c6" 
+     alt="hero" 
+     width="400"></p>
 
 <p align="center">
   <b>B.Tech IT Student | Cloud & DevOps Enthusiast | Full-Stack Dev</b><br>
