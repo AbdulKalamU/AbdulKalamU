@@ -1,7 +1,8 @@
 # <p align="center">👋 Hello World, I'm Abdul Kalam U!</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="<img width="912" height="1168" alt="hero" src="https://github.com/user-attachments/assets/1b5d1cc3-7d69-4e6a-9ce9-f1dd26edd8c6" />
+" width="400">
 </p>
 
 <p align="center">
@@ -10,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20AI-blue" />
   <img src="https://img.shields.io/github/followers/AbdulKalamU?style=social" />
 </p>
